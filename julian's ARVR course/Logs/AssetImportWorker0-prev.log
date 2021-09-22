@@ -1,0 +1,326 @@
+Unity Editor version:    2020.3.18f1 (a7d1c678663c)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.5 (Build 20G71)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/doniatung1/Documents/cs98/hack-a-thing-21f-1-donia-wylie/julian's ARVR course
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50444
+Successfully changed project path to: /Users/doniatung1/Documents/cs98/hack-a-thing-21f-1-donia-wylie/julian's ARVR course
+/Users/doniatung1/Documents/cs98/hack-a-thing-21f-1-donia-wylie/julian's ARVR course
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 109.46 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 21.89 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/doniatung1/Documents/cs98/hack-a-thing-21f-1-donia-wylie/julian's ARVR course/Assets
+GfxDevice: creating device client; threaded=0
+2021-09-22 02:13:16.634 Unity[73308:2359473] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
+2021-09-22 02:13:16.634 Unity[73308:2359473] Metal devices available: 2
+2021-09-22 02:13:16.634 Unity[73308:2359473] 0: AMD Radeon Pro 560X (high power)
+2021-09-22 02:13:16.634 Unity[73308:2359473] 1: Intel(R) UHD Graphics 630 (low power)
+2021-09-22 02:13:16.639 Unity[73308:2359473] Using device AMD Radeon Pro 560X (high power)
+Initializing Metal device caps: AMD Radeon Pro 560X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001767 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 74.33 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.55 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.731 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3731ms)
+		BeginReloadAssembly (56ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (623ms)
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (222ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (252ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (75ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (123ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 68.72 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.57 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.809 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1811ms)
+		BeginReloadAssembly (198ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1525ms)
+			LoadAssemblies (141ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (488ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (661ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (69ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (482ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.018031 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.025312 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.86 ms.
+Unloading 3657 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 276.7 MB.
+System memory in use after: 276.5 MB.
+
+Unloading 426 unused Assets to reduce memory usage. Loaded Objects now: 4135.
+Total: 6.171385 ms (FindLiveObjects: 0.456807 ms CreateObjectMapping: 0.318126 ms MarkObjects: 5.018113 ms  DeleteObjects: 0.376989 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions
+  artifactKey: Guid(51b41421c4ee1476e842340457cbd77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions using Guid(51b41421c4ee1476e842340457cbd77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3ad8f9b61e67a0210848db2ee6d061') in 0.010118 seconds 
+  Import took 0.017951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.818297 seconds.
+  path: Assets/Scenes/villageScene.unity
+  artifactKey: Guid(da0bdb105ea1a4253ac46d78e147d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/villageScene.unity using Guid(da0bdb105ea1a4253ac46d78e147d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6b43a22c0f00e366b6fbfc4a69beb3') in 0.020753 seconds 
+  Import took 0.031616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.971448 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ed33fef4a8d679a0250f8840da9ca6') in 0.001556 seconds 
+  Import took 0.008510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.491730 seconds.
+  path: Assets/Scenes/walls.prefab
+  artifactKey: Guid(ff60df20189b0459e862b8fcc09485ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/walls.prefab using Guid(ff60df20189b0459e862b8fcc09485ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ab439397b555563c16a43dfa4e75f2') in 2.326171 seconds 
+  Import took 2.335426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.447233 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316f8e9e1524c147d3af5667b1baf312') in 0.002650 seconds 
+  Import took 0.010238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.332844 seconds.
+  path: Assets/Scenes/villageScene.unity
+  artifactKey: Guid(da0bdb105ea1a4253ac46d78e147d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/villageScene.unity using Guid(da0bdb105ea1a4253ac46d78e147d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2168e4a8f2f3f04503daf72683059c') in 0.001700 seconds 
+  Import took 0.010252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005277 seconds.
+  path: Assets/Scenes/villageScene.unity
+  artifactKey: Guid(da0bdb105ea1a4253ac46d78e147d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/villageScene.unity using Guid(da0bdb105ea1a4253ac46d78e147d8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2168e4a8f2f3f04503daf72683059c') in 0.029315 seconds 
+  Import took 0.039051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.267002 seconds.
+  path: Assets/Prefabs/XR Rig (Direct).prefab
+  artifactKey: Guid(4e37943d2478ab74985da918e5ea52b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/XR Rig (Direct).prefab using Guid(4e37943d2478ab74985da918e5ea52b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb2e0b75d30d56ff9759c0270525ba22') in 0.614379 seconds 
+  Import took 0.622477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.274232 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6
+  artifactKey: Guid(0399e33e7dfa64dd08c662b4e9cf52e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6 using Guid(0399e33e7dfa64dd08c662b4e9cf52e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef87875d1429b6ef73b90cd4a5fc4772') in 0.001714 seconds 
+  Import took 0.008683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.296924 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Move.preset
+  artifactKey: Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Move.preset using Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da3fe9c90d3328ccbda1acb67679066') in 0.384993 seconds 
+  Import took 0.392326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002399 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Left Controller.preset
+  artifactKey: Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Left Controller.preset using Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4262c9a3ed65a32472f92dcc7aabada0') in 0.005414 seconds 
+  Import took 0.012055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Snap Turn.preset
+  artifactKey: Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Snap Turn.preset using Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16670b800db6788a6c2019e24f3b4ddb') in 0.009500 seconds 
+  Import took 0.017371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Input Actions.inputactions
+  artifactKey: Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Input Actions.inputactions using Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb27270a5d8c0df7c6cdb278eb046518') in 0.228159 seconds 
+  Import took 0.235699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002934 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Turn.preset
+  artifactKey: Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Turn.preset using Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ccefdc474ceb738a43be42fa0dd200') in 0.007196 seconds 
+  Import took 0.015523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Right Controller.preset
+  artifactKey: Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Right Controller.preset using Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcadb25ec308300406d5962f5bf2377') in 0.008559 seconds 
+  Import took 0.016088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1031.464580 seconds.
+  path: Assets/Materials/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d54ab3375f41efad00566dcae11def2') in 0.450482 seconds 
+  Import took 0.549626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.651577 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(db0662fd1c3184cecb0d10cdf7c74628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(db0662fd1c3184cecb0d10cdf7c74628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7e9ac30a8b38bd7a57a26fd2d93e5f') in 0.032654 seconds 
+  Import took 0.040379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.884609 seconds.
+  path: Assets/Materials/teal.mat
+  artifactKey: Guid(db0662fd1c3184cecb0d10cdf7c74628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/teal.mat using Guid(db0662fd1c3184cecb0d10cdf7c74628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93920dee08ad5c85678ae0f0e3930248') in 0.019199 seconds 
+  Import took 0.026743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.875882 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(7ca15859c6462408eb5c76c58098c78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(7ca15859c6462408eb5c76c58098c78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca74935e35244fde95cb6b1529dc1153') in 0.026105 seconds 
+  Import took 0.033798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.404720 seconds.
+  path: Assets/Materials/pink.mat
+  artifactKey: Guid(7ca15859c6462408eb5c76c58098c78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/pink.mat using Guid(7ca15859c6462408eb5c76c58098c78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fdb23e45894e406b9b21de2ccc237c') in 0.023356 seconds 
+  Import took 0.033135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.063726 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(7017a4da532e349a39cae3fcb830b3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(7017a4da532e349a39cae3fcb830b3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff88d4f6133cf3934d524304f752777a') in 0.019707 seconds 
+  Import took 0.026502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.759675 seconds.
+  path: Assets/Materials/yellow.mat
+  artifactKey: Guid(7017a4da532e349a39cae3fcb830b3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/yellow.mat using Guid(7017a4da532e349a39cae3fcb830b3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2baefdc5dbb569afc7e4f2b1e29af26') in 0.024050 seconds 
+  Import took 0.032472 seconds .
+
