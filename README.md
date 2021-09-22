@@ -12,8 +12,12 @@ The set-up part consisted of creating a new scene and setting up a ground and wa
 
 Next, we populated our scene with some houses: 
 <img width="673" alt="Screen Shot 2021-09-22 at 2 42 38 AM" src="https://user-images.githubusercontent.com/22206948/134396076-23c19768-b58e-41fb-ab9c-03c733346c0b.png">
+![com DefaultCompany juliansARVRcourse-20210922-112743](https://user-images.githubusercontent.com/48226120/134402559-bd1a80f6-36cb-4db0-a4cf-f2b2efcb6760.jpg)
 
-And finally, **TODO @wylie**
+And finally, we added in some cubes and used rigidbody and collision layers to be able to grab/throw/bump boxes while they still have their colliders on.
+![com DefaultCompany juliansARVRcourse-20210922-112829](https://user-images.githubusercontent.com/48226120/134402472-a2e3d105-8505-49df-be5f-97f49fcfbe3f.jpg)
+![com DefaultCompany juliansARVRcourse-20210922-112846](https://user-images.githubusercontent.com/48226120/134402484-9903e44f-0287-4c61-a48f-aa0954a4f2da.jpg)
+
 
 ## Who Did What?
 
@@ -31,9 +35,8 @@ Photo evidence of julian trying to fix Donia's computer:
 
 
 ## Authors
-Wylie Kasai
-
-Donia Tung 
+Wylie Kasai '22
+Donia Tung '22
 
 ## Acknowledgments
 The tutorial we followed was made by Julian Wu '22 and is accessible [here](https://docs.google.com/document/d/12CpNCmqd6laFjG6e8FvCQX0zZv7ow-p8agdHqiRgEdI/edit). 
