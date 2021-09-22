@@ -1,0 +1,4 @@
+#Wed Sep 22 12:13:45 EDT 2021
+base.0=/Users/wyliekasai/Code/CS98/hack-a-thing-21f-1-donia-wylie/julian's ARVR course/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
